@@ -43,6 +43,7 @@ const App = () => {
             coordinates={coordinates}
             setBounds={setBounds}
             setCoordinates={setCoordinates}
+            restaurant={restaurant}
           />
         </Grid>
       </Grid>
